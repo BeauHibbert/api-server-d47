@@ -54,3 +54,10 @@ Each method should in turn call the appropriate Sequelize method for the model
 - Read a record using GET
 - Update a record using PUT
 - Destroy a record using DELETE
+
+
+
+UML:
+
+
+<img width="1515" alt="Screen Shot 2022-06-16 at 9 15 29 PM" src="https://user-images.githubusercontent.com/91757275/174223691-8c1184f3-b386-4c4b-8561-7d80fc1c35f5.png">
